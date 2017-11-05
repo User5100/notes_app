@@ -1,0 +1,19 @@
+{
+    "notes": [
+        {
+            "id": 1,
+            "text": "Note 1",
+            "color": "lightblue"
+        },
+        {
+            "id": 2,
+            "text": "Note 2",
+            "color": "peru"
+        },
+        {
+            "id": 3,
+            "text": "Note 3",
+            "color": "green"
+        }
+    ]
+}
